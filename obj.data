@@ -1,5 +1,5 @@
 classes = 2
-train = /content/darknet/train.txt
-valid = /content/darknet/test.txt
-names = /content/darknet/obj.names
-backup = backup
+train = train.txt/
+valid = test.txt/
+names = obj.names/
+backup = backup/
